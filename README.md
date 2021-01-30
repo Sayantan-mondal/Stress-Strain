@@ -10,3 +10,7 @@ Young's Modulus
 Ledwik holloman paameter
 
 strain hardening coeff
+
+both .ipynb and .pdf format of the files are availabele
+
+Author: Sayantan Mondal
