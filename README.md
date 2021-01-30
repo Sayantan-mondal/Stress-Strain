@@ -13,4 +13,6 @@ strain hardening coeff
 
 both .ipynb and .pdf format of the files are availabele
 
+Data Alum.txt and steel.txt are obtained from tensile test
+
 Author: Sayantan Mondal
